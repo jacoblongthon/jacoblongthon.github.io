@@ -51,6 +51,7 @@ p {
     padding-top: 10rem;
 }
 object {
+    margin: 5rem, 30%;
     width: 40%;
 }
 /*************generic parent/child flexbox rules************/
