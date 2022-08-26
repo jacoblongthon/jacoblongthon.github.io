@@ -50,6 +50,9 @@ img {
 p {
     padding-top: 10rem;
 }
+object {
+    width: 40%;
+}
 /*************generic parent/child flexbox rules************/
 .parent {
     align-items: center;
