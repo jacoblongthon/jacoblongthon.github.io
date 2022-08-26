@@ -53,6 +53,7 @@ p {
 object {
     margin: 5rem, 30%;
     width: 40%;
+    height: 70%
 }
 /*************generic parent/child flexbox rules************/
 .parent {
